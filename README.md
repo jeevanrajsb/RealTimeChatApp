@@ -16,7 +16,7 @@ This application enables real-time communication between users, facilitating sea
   ## Tech Stack
 
 * **Frontend:** React, Redux Toolkit
-* **Backend:** Node.js, Express.js, MongoDB
-* **Real-time Communication:** Socket.IO,JWT
+* **Backend:** Node.js, Express.js,JWT, MongoDB
+* **Real-time Communication:** Socket.IO
 
 
